@@ -1,0 +1,9 @@
+# Ignoroidaan tiedostot, joiden pääte on tmp
+*.tmp
+
+# Ignoroidaan hakemistot, joiden nimi on __pycache__
+__pycache__/
+
+# Ignoroidaan hakemistot, joiden nimi on .pytest_cache
+.pytest_cache/
+
