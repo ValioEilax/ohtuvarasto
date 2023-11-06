@@ -7,3 +7,7 @@ __pycache__/
 # Ignoroidaan hakemistot, joiden nimi on .pytest_cache
 .pytest_cache/
 
+.coverage
+
+htmlcov
+
